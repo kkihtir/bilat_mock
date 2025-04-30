@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Stylized "I." symbol -->
+  <path d="M38 10.5L28 64L18 64L38 10.5Z" fill="#1EAEBB"/>
+  <path d="M58 54.5C54 58.5 48 64.5 38 54.5C28 44.5 28 54.5 18 54.5" stroke="#1EAEBB" stroke-width="4" stroke-linecap="round"/>
+</svg> 
